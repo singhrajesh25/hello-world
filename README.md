@@ -7,3 +7,5 @@ myFirstRepositoryClonedWithTheDesktopAndChangedTheContent
 ThisisChangeFromGitHub
 
 ThisISSecondChange
+
+ThisISSecondEditDOingFromGITHUBWEB
